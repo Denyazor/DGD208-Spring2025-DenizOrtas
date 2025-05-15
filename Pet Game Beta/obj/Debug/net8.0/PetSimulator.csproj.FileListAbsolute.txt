@@ -1,0 +1,4 @@
+C:\Users\W11\Desktop\deniz\PetSimulator\obj\Debug\net8.0\PetSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W11\Desktop\deniz\PetSimulator\obj\Debug\net8.0\PetSimulator.AssemblyInfoInputs.cache
+C:\Users\W11\Desktop\deniz\PetSimulator\obj\Debug\net8.0\PetSimulator.AssemblyInfo.cs
+C:\Users\W11\Desktop\deniz\PetSimulator\obj\Debug\net8.0\PetSimulator.csproj.CoreCompileInputs.cache
